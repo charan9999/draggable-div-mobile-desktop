@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+#draggable{
+    position: fixed;
+    bottom: 0;
+    background: #333;
+    color: #fff;
+    width: 150px;
+    height: 150px;
+    padding: 0.5em;
+    border: 1px solid red;
+}
